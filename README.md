@@ -28,7 +28,7 @@ driving margin loss across the business.
 
 1. Open `analysis.py` in Spyder (or any Python IDE)
 2. Make sure `Sample - Superstore.csv` is in the same folder
-3. Run the script — it prints KPIs and analysis tables to the console and
+3. Run the script - it prints KPIs and analysis tables to the console and
    displays each chart in turn
 
 **Requirements:** `pandas`, `matplotlib`
