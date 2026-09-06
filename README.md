@@ -1,6 +1,6 @@
-# FUTURE_DS_01 — Business Sales Performance Analytics
+# FUTURE_DS_01 - Business Sales Performance Analytics
 
-**Future Interns — Data Science & Analytics Track**
+**Future Interns - Data Science & Analytics Track**
 Task 1: Business Sales Performance Analytics
 
 ## Overview
@@ -12,7 +12,7 @@ driving margin loss across the business.
 
 ## Tools Used
 
-- **Python** (pandas, matplotlib) — written and run in **Spyder IDE**
+- **Python** (pandas, matplotlib) - written and run in **Spyder IDE**
 - Dataset: [Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (Kaggle)
 
 ## Repository Contents
